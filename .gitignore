@@ -1,0 +1,4 @@
+.env
+/node/app/node_modules
+/mongo/store
+/client/app/node_modules
